@@ -3,12 +3,13 @@ A data mining project using R to predict mental health risks among university st
 # Mental Health Risk Prediction among University Students
 
 ## Project Overview
-This project leverages data mining techniques to predict mental health risks among university students based on survey data collected from IIUM. [cite_start]It compares the effectiveness of different classification models to identify students "At Risk" for early intervention.
+This project leverages data mining techniques to predict mental health risks among university students based on survey data collected from IIUM. It compares the effectiveness of different classification models to identify students "At Risk" for early intervention.
 
 ## Key Features
 - **Dataset:** Primary data collected from 50 participants via a structured survey.
 - **Predictors:** Academic workload, stress levels, sleep patterns, social engagement, and physical health.
-- **Techniques Used:** - Naïve Bayes (Best Performer)
+- **Techniques Used:** 
+  - Naïve Bayes (Best Performer)
   - Decision Trees
   - k-Nearest Neighbors (k-NN) 
 
